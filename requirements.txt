@@ -1,6 +1,7 @@
 appdirs==1.4.4
 certifi==2020.12.5
 chardet==4.0.0
+Cython==0.29.9
 distlib==0.3.1
 docutils==0.16
 filelock==3.0.12
